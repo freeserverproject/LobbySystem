@@ -1,0 +1,4 @@
+main: run.tere.plugin.lobbysystem.LobbySystem
+name: LobbySystem
+version: Patch-1.0.0
+api-version: 1.18
